@@ -17,7 +17,7 @@ In this image, I included all 4 of the parts of the controller which are labeled
   The simulation presses the buttons down into the controller in an animated simulation. Forces are applied on the back of the controller as the buttons press down. Overall, my controller shape is both ergonomic and relatively sturdy assuming the user presses the buttons down with 0.5 Newtons as detailed in the lecture.
 
 ### Reflection 
-  On March 11th, I came to the lecture prepared to expand on my previous work by exploring the Drawing, Animation, and Simulation workspaces in Fusion 360. I learned that an assembly (the collection of all components in a model) is more than just a 3D shape; it is a dataset used for generating exploded views, assembly instructions, and Bills of Materials (BOMs).
+  On March 11th, I came to the lecture prepared to expand on my previous work by exploring the Drawing, Animation, and Simulation workspaces in Fusion 360. I learned that an assembly (the collection of all components in a model) is more than just a 3D shape. Rather, it is a dataset used for generating exploded views, assembly instructions, and Bills of Materials (BOMs).
 
   First, I created an exploded view animation, as this sequence could be reused for the technical drawing. The Animation workspace was straightforward, and I was quickly able to produce a video of my components separating.
 
